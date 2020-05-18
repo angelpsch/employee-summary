@@ -1,6 +1,6 @@
 # Employee Information Application
 
-## [Link to Deployed Application](https://angelpsch.github.io/employee-summary/)
+## [Watch application in action](https://jcccstu-my.sharepoint.com/:i:/g/personal/aschul29_stumail_jccc_edu/EaXzzGv3pDhImz7WUKfqiOUBqvygUDNmAdmV99TTIxTSCg?e=VJjxKt)
 
 ### Description:
 - Generate a webpage that displays each member of your team's info, such as: 
@@ -19,4 +19,4 @@
 - This will generate your HTML page with all of the information on it.
 
 
-[Watch application in action](https://jcccstu-my.sharepoint.com/:i:/g/personal/aschul29_stumail_jccc_edu/EaXzzGv3pDhImz7WUKfqiOUBqvygUDNmAdmV99TTIxTSCg?e=VJjxKt)
+
