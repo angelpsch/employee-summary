@@ -1,6 +1,6 @@
 # Employee Information Application
 
-## [Watch application in action](https://jcccstu-my.sharepoint.com/:i:/g/personal/aschul29_stumail_jccc_edu/EaXzzGv3pDhImz7WUKfqiOUBqvygUDNmAdmV99TTIxTSCg?e=VJjxKt)
+## [Watch application in action](https://jcccstu-my.sharepoint.com/personal/aschul29_stumail_jccc_edu/Documents/2020-05-18-07-58-59.gif)
 
 ### Description:
 - Generate a webpage that displays each member of your team's info, such as: 
