@@ -17,3 +17,6 @@
 - In the Node CLI, you will enter each employee's information when prompted.
 - When you are done, you will tell it that there are no more employees you would like to add.
 - This will generate your HTML page with all of the information on it.
+
+
+[Watch application in action](https://jcccstu-my.sharepoint.com/:i:/g/personal/aschul29_stumail_jccc_edu/EaXzzGv3pDhImz7WUKfqiOUBqvygUDNmAdmV99TTIxTSCg?e=VJjxKt)
